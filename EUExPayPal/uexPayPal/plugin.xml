@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexPayPal">
+        <method name="init"></method>
+        <method name="pay"></method>
+    </plugin>
+    
+</uexplugins>
